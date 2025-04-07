@@ -12,7 +12,7 @@ export default function Login() {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    if (user === "admin" && pass === "123456") {
+    if (user === "adm" && pass === "9591**") {
       localStorage.setItem("auth", "true");
       navigate("/dashboard");
     } else {
