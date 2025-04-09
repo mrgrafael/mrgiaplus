@@ -1,1 +1,0 @@
-console.log('MRG IA PLUS Backend funcionando');
