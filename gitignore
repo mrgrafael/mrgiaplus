@@ -1,0 +1,33 @@
+# Node.js
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Vite
+dist
+.vite
+
+# Logs
+logs
+*.log
+log.txt
+
+# PM2
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Env
+.env
+.env.local
+
+# IDEs
+.vscode
+.idea
+
+# System files
+.DS_Store
+Thumbs.db
