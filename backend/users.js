@@ -1,1 +1,0 @@
-// Dados simulados de usuários
